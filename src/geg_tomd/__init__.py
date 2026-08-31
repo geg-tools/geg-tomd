@@ -1,2 +1,3 @@
-def main() -> None:
-    print("Hello from geg-tomd!")
+from .processor import convert_to_md
+
+__all__ = ["convert_to_md"]

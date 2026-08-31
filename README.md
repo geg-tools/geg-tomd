@@ -63,4 +63,3 @@ As opções podem ser combinadas:
 ```bash
 uv run geg-tomd arquivo.pdf -o resultado.md -sc --ai
 ```
-
